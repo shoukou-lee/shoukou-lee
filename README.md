@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Python3-28282B?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-28282B?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-28282B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-28282B?style=flat-square&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shoukou-lee"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukou-lee"/>
 </p>
 
 <!--
