@@ -1,11 +1,12 @@
 <p>
-  <a href="mailto:shoukou.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shoukou.lee-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:shoukou.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shoukou.lee-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shoukou-lee" target="_blank"><img src="https://img.shields.io/badge/shoukou--lee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://solved.ac/profile/seungho_lee"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seungho_lee"></a>
 </p>
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=shoukou-lee&show_icons=true&theme=city_lights&include_all_commits=true&hide_border=true" alt="shoukou-lee's github stats"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukou-lee&show_icons=true&theme=city_lights&layout=compact&hide_border=true" alt="shoukou-lee's most used languages" /></a> |
-| ------------- | ------------- |
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shoukou-lee&show_icons=true&theme=city_lights&include_all_commits=true&hide_border=true&count_private=true" height="200"></a>   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukou-lee&show_icons=true&theme=city_lights&layout=compact&hide_border=true" height="200"></a>
+</p>  
 
 <!--
 
