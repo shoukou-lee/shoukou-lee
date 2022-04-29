@@ -5,8 +5,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shoukou-lee&show_icons=true&theme=city_lights&include_all_commits=true&hide_border=true&count_private=true" width="400"></a>   
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukou-lee&show_icons=true&theme=city_lights&layout=compact&hide_border=true" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shoukou-lee&show_icons=true&theme=city_lights&include_all_commits=true&hide_border=true&count_private=true" height="180"></a>   
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukou-lee&show_icons=true&theme=city_lights&layout=compact&hide_border=true" height="180"></a>
 </p>  
 
 <!--
