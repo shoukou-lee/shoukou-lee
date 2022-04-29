@@ -1,7 +1,7 @@
 <p align='center'>
 <a href="mailto:shoukou.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shoukou.lee-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shoukou-lee" target="_blank"><img src="https://img.shields.io/badge/shoukou--lee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://solved.ac/profile/seungho_lee/"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seungho_lee"></a>
+<a href="https://solved.ac/profile/seungho_lee"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seungho_lee"></a>
 </p>
 
 <p align='center'>
