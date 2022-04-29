@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="mailto:shoukou.lee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shoukou.lee@gmail.com"/></a>
+
 <!--
 **shoukou-lee/shoukou-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
