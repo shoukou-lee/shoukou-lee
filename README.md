@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<a href="mailto:shoukou.lee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shoukou.lee@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/seungho-lee-408486239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<p>
+  <a href="shoukou.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shoukou.lee-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shoukou-lee" target="_blank"><img src="https://img.shields.io/badge/shoukou-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 <!--
 **shoukou-lee/shoukou-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
