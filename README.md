@@ -6,7 +6,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shoukou-lee&show_icons=true&theme=city_lights&include_all_commits=true&hide_border=true&count_private=true&title_color=778899&text_color=778899&icon_color=778899&bg_color=28282B" height="180"></a>   
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukou-lee&show_icons=true&theme=city_lights&layout=compact&hide_border=true&title_color=778899&text_color=778899&bg_color=28282B" height="180"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukou-lee&show_icons=true&theme=city_lights&layout=compact&hide_border=true&title_color=778899&text_color=778899&bg_color=28282B&langs_count=6" height="180"></a>
 </p>  
 
 <!--
