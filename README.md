@@ -1,3 +1,9 @@
+### Hi, there! 👋
+
+I studied various fields such as video compression, VR, GPU acceleration, and digital circuit design. I'm grateful that I had exciting experiences, not only contributing to [academic papers](https://ieeexplore.ieee.org/document/9578988) on various topics, but participating as an exhibitor at [CES2020](https://www.youtube.com/watch?v=lrIsEJbiGNg) during my M.S course.
+
+While currently working as a backend developer, I’m developing a collaboration tool.
+
 <p align='center'>
 <a href="mailto:shoukou.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shoukou.lee-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shoukou-lee" target="_blank"><img src="https://img.shields.io/badge/shoukou--lee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
