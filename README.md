@@ -4,6 +4,8 @@ I studied various fields such as video compression, VR, GPU acceleration, and di
 
 While currently working as a backend developer, I’m developing a collaboration tool.
 
+If you want to know more about me, please visit [here](https://www.notion.so/About-Me-b1a568d42d4940329844c85b22b66454)! 🙏
+
 <p align='center'>
 <a href="mailto:shoukou.lee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/shoukou.lee-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shoukou-lee" target="_blank"><img src="https://img.shields.io/badge/shoukou--lee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
